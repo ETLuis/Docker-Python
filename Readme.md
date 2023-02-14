@@ -18,7 +18,7 @@
 - ``/usr/src/myapp`` el directorio dentro del contenedor.
 
 ``w`` el directorio de trabajo (_workdir_).
-
+ 
 ``python:3`` la imagen de la que se creará el contenedor.
 
 ``python main.py`` es el comando para ejecutar dentro del contenedor.
